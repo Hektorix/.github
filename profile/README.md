@@ -10,4 +10,4 @@
 | ------------- | ----------------------------------------------------------------- |
 | Website       | [hektorix.com](https://hektorix.com)                              |
 | Documentation | [docs.hektorix.com](https://docs.hektorix.com)                    |
-| LinkedIn      | [Hektorix on LinkedIn](https://www.linkedin.com/company/hektorix) |
+| LinkedIn      | [https://www.linkedin.com/company/hektorix](https://www.linkedin.com/company/hektorix) |
