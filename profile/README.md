@@ -1,6 +1,6 @@
 # Hektorix
 
-**Hektorix** is a SaaS company specializing in **cybersecurity solutions** for modern organizations.
+Hektorix is a cybersecurity monitoring platform designed specifically for SMBs who need actionable security insights without requiring deep technical expertise. Our solution combines automated vulnerability detection with clear, prioritized reporting to help you protect your business.
 
 🔐 We help businesses **protect**, **monitor**, and **respond** to digital threats with agility and precision.
 
